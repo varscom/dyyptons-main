@@ -1,0 +1,68 @@
+.main-list {
+
+    .arttext  {
+
+        h1 {
+            position: absolute;
+            left: 25%;
+            top: 33%;
+            transform: translateY(-50);
+            width: 40;
+            max-height: 90;
+            color: #ff09ee;
+            font-size: 20px;
+            margin: 0;
+            font-family: "St Marie W03 Regular";
+            animation: fadeIn 3s forwards;
+            letter-spacing: 5px;
+            
+        }
+
+        h2 {
+            position: absolute;
+            left: 29%;
+            top: 40%;
+            transform: translateY(-50);
+            width: 40;
+            max-height: 90;
+            color: #eeeeee;
+            font-size: 16px;
+            margin: 0;
+            font-family: "St Marie W03 Regular";
+            animation: fadeIn 3s forwards;
+            letter-spacing: 2px;
+            line-height: 50px;
+        }
+
+        .guest-text-1 {
+            position: absolute;
+            left: 72%;
+            top: 33%;
+            transform: translateY(-50);
+            width: 40;
+            max-height: 90;
+            color: #4af7ff;
+            font-size: 20px;
+            margin: 0;
+            font-family: "St Marie W03 Regular";
+            animation: fadeIn 3s forwards;
+            letter-spacing: 5px;
+        }
+        .guest-text-2 {
+            position: absolute;
+            left: 67%;
+            top: 40%;
+            transform: translateY(-50);
+            width: 40;
+            max-height: 90;
+            color: #eeeeee;
+            font-size: 16px;
+            margin: 0;
+            font-family: "St Marie W03 Regular";
+            animation: fadeIn 3s forwards;
+            letter-spacing: 2px;
+            line-height: 50px;
+            text-align: right;
+        }
+    }
+}
